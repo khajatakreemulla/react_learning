@@ -35,3 +35,7 @@ and In App.js
 import Expenses from "./components/Expenses";
 <Expenses expenses={expenses}/>
 this is for learning git commands
+
+
+
+lorem ispusm ek mahan kahaini hai a jo ham do no 
