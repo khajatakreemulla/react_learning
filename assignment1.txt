@@ -34,3 +34,4 @@ export default Expneses;
 and In App.js 
 import Expenses from "./components/Expenses";
 <Expenses expenses={expenses}/>
+this is for learning git commands
